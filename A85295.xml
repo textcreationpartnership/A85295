@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The necessity of the absolute power of all kings: and in particular, of the King of England.</title>
+            <author>Filmer, Robert, Sir, d. 1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85295</idno>
+            <idno type="STC">Wing F917</idno>
+            <idno type="STC">Thomason E460_7</idno>
+            <idno type="STC">ESTC R202077</idno>
+            <idno type="EEBO-CITATION">99862490</idno>
+            <idno type="PROQUEST">99862490</idno>
+            <idno type="VID">162131</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85295)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162131)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E460[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The necessity of the absolute power of all kings: and in particular, of the King of England.</title>
+                  <author>Filmer, Robert, Sir, d. 1653.</author>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Sir Robert Filmer.</note>
+                  <note>With a final blank leaf.</note>
+                  <note>Annotation on Thomason copy: "August ye 21th 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monarchy --  Early works to 1800.</term>
+               <term>Monarchy --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162131:1" rendition="simple:additions"/>
+            <p>THE NECESSITY OF <hi>The Abſolute Power of all KINGS:</hi> And in particular, OF THE <hi>KING</hi> OF ENGLAND.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>At LONDON, Printed in the year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162131:2"/>
+            <pb n="1" facs="tcp:162131:2"/>
+            <head>THE NECESSITY OF <hi>The Abſolute Power of all KINGS:</hi> AND In particular, of the KING of ENGLAND.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O <hi>Majeſty</hi> or <hi>Soveraignty</hi> belongeth an <hi>Abſo<g ref="char:EOLhyphen"/>lute Power</hi> not ſubject to any Law. It behoveth him that is a Soveraign, not to be in any ſort ſubject to the command of another; whoſe of<g ref="char:EOLhyphen"/>fice is to give Lawes unto his ſubjects, to abro<g ref="char:EOLhyphen"/>gate Lawes unprofitable, and in their <hi>ſtead</hi> to eſtabliſh other, which he cannot do, that is him<g ref="char:EOLhyphen"/>ſelfe ſubject to Lawes; or to others which have command over him: And that is it for which the Law ſaith, that <hi>The Prince is acquitted from the Power of the Lawes.</hi>
+            </p>
+            <p>The Lawes, Ordinances, Letters Patents, Priviledges, and Grants of Princes, have no force but during their life; if they be
+<pb n="2" facs="tcp:162131:3"/>not ratified by the expreſſe conſent, or at leaſt by ſufferance of the Prince following, who had knowledge thereof.</p>
+            <p>If the Soveraigne Prince be exempted from the Lawes of his Predeceſſours, much leſſe ſhall he be bound unto the Lawes he maketh himſelfe; for a man may wel receive a Law from another man, but impoſſible it is in Nature for to give a Law unto him<g ref="char:EOLhyphen"/>ſelfe, no more then it is to command a mans ſelfe in a matter de<g ref="char:EOLhyphen"/>pending of his own will; <hi>There can be no Obligation which taketh State from the meer will of him that promiſeth the ſame;</hi> which is a neceſſary reaſon to prove evidently that a King cannot bind his own hands, albeit that he would: We ſee alſo in the end of all Laws theſe words, <hi>Becauſe it hath ſo pleaſed us.</hi> To give us to un<g ref="char:EOLhyphen"/>derſtand, that the Lawes of a Soveraign Prince although they be grounded upon reaſon, yet depend upon nothing but his meer &amp; frank good will. But as for the Lawes of God, all Princes and people are unto them ſubject; neither is it in their power to im<g ref="char:EOLhyphen"/>pugne them, if they wil not be guilty of High Treaſon againſt God; under the greatneſſe of whom, all <hi>Monarchs</hi> of the world ought to bow their heads in all feare and Reverence.</p>
+            <p>Queſtion may be, <hi>Whether a Prince be ſubject to the Lawes of his Countrey that he hath ſworn to keep or not?</hi> If a Soveraign Prince promiſe by Oath to his ſubjects to keep the Lawes, he is bound to keep them; not for that a Prince is bound to keep his Lawes, or by his Predeceſſours, but to the juſt Conventions and promi<g ref="char:EOLhyphen"/>ſes which he hath made; be it by Oath, or without any Oath at all, as ſhould a private man be; and for the ſame cauſes that a private man may be relieved from his unjuſt and unreaſonable promiſe, as for that it was ſo grievous, or for that he was by de<g ref="char:EOLhyphen"/>ceit or fraud circumvented, or induced thereunto by error, or force, or juſt feare, or by ſome great hurt: Even for the ſame cauſes the Prince may be reſtored in that which toucheth the di<g ref="char:EOLhyphen"/>miniſhing of his Majeſty: And ſo our <hi>Maxime</hi> reſteth, <hi>that the Prince is not ſubject to his Lawes, nor to the Lawes of his Predeceſ<g ref="char:EOLhyphen"/>ſours, but well to his owne juſt and reaſonable Conventions.</hi>
+            </p>
+            <p>The Soveraigne Prince may derogate unto the Lawes that he hath promiſed and ſworne to keep, if the equity thereof ceaſe, and that of himſelfe, without conſent of his ſubjects; which his
+<pb n="3" facs="tcp:162131:3"/>ſubjects cannot do among themſelves, if they be not by the Prince relieved.</p>
+            <p>The forraign Princes wel adviſed, will never take Oath to keep the Lawes of their Predeceſſours, for otherwiſe they are not Soveraignes.</p>
+            <p>Notwithſtanding all Oaths, the Prince may derogate from the Lawes, or fruſtrate or diſanul the ſame, the Reaſon and equity of them ceaſing.</p>
+            <p>There is not any bond for the Soveraign Prince to keep the Lawes, more then ſo farre as Right and Juſtice requireth.</p>
+            <p>Neither is it to be found that the Ancient Kings of the He<g ref="char:EOLhyphen"/>brewes tooke any Oathes, no not they which were anointed by <hi>Samuel, Elias,</hi> and others.</p>
+            <p>As for General and particular, which concerne the Right of men in private, they have not uſed to be otherwiſe changed, but after General aſſembly of the three eſtates in <hi>France;</hi> not for that it is neceſſary for the King to reſt on their advice, or that he may not do the contrary to that they demand, if naturall Reaſon and Juſtice ſo require. And in that the greatneſſe and Majeſty of a true Soveraigne Prince is to be known, when the eſtates of all the people aſſembled together in all humility, preſent their requeſts and ſupplications to their Prince, without having any Power in any thing to command, or determine, or to give voice, but that that which it pleaſeth the King to like or diſlike, to command or forbid, is holden for Law. Wherein they which have written of the duty of Magiſtrates, have deceived themſelves, in maintain<g ref="char:EOLhyphen"/>ing that the Power of the people is greater then the Prince; a thing which oft times cauſeth the true Subjects to revolt from the obedience which they owe unto their Soveraign Prince, and miniſtreth matter of great troubles in Common-wealths; of which their opinion, there is neither reaſon nor ground.</p>
+            <p>If the King ſhould be ſubject unto the aſſemblies and decrees of the people, he ſhould neither be King nor Soveraign, and the Common-wealth neither Realme nor Monarchy; but a meer <hi>A<g ref="char:EOLhyphen"/>riſtocracie</hi> of many Lords in Power equal, where the greater part commandeth the leſſe; and whereon the Lawes are not to be publiſhed in the name of him that ruleth, but in the name and
+<pb n="4" facs="tcp:162131:4"/>Authority of the eſtates, as in an <hi>Ariſtocraticall</hi> Seignory; where he that is chiefe hath no Power, but oweth obeiſance to the Seig<g ref="char:EOLhyphen"/>nory; unto whom yet they every one of them feign themſelves to owe their Faith and obedience, which are all things ſo abſurd, as hard it is which is furtheſt from Reaſon.</p>
+            <p>When <hi>Charles</hi> 8, the <hi>French</hi> King, then but fourteen yeers old, held a Parliament at <hi>Towrs,</hi> although the Power of the Parlia<g ref="char:EOLhyphen"/>ment was never before nor after ſo great as in thoſe times; yet <hi>Relli</hi> then the Speaker for the People turning himſelfe to the King, thus beginneth: <hi>Moſt High, moſt Mighty, and moſt Chriſti<g ref="char:EOLhyphen"/>an King; our Naturall and onely Lord: We poor, humble, and obe<g ref="char:EOLhyphen"/>dient Subjects, &amp;c. which are come hither by your Command, in all Humility, Reverence, and Subjection; preſent our ſelves before you, &amp;c. And have given me in charge from all this Noble Aſſembly to declare unto You, the good will and hearty deſire they have, with a moſt fervent reſolution, to ſerve, obey, and aide You in all Your af<g ref="char:EOLhyphen"/>faires, Commandments, and pleaſures:</hi> All this ſpeech is nothing elſe but a Declaration of their good will towards the King, and of their humble Obedience and Loyalty.</p>
+            <p>The like ſpeech was uſed in the Parliament at <hi>Oreans</hi> to <hi>Charles</hi> 9. when he was ſcarce eleven yeers old.</p>
+            <p>Neither are the Parliaments in <hi>Spaine</hi> otherwiſe holden, but that even a greater Obedience of all the people is given to the King, as is to be ſeen in the Acts of the Parliament at <hi>Toledo</hi> by King <hi>Philip,</hi> 1552. when he yet was ſcarce twenty five yeers old: The anſwers alſo of the King of <hi>Spaine</hi> unto the Requeſts and humble Supplications of his people, are given in theſe words; <hi>We will,</hi> or elſe, <hi>We Decree or Ordaine;</hi> yea, the Subſidies that the Sub<g ref="char:EOLhyphen"/>jects pay unto the King of <hi>Spaine,</hi> they call <hi>Service.</hi>
+            </p>
+            <p>In the Parliaments of <hi>England,</hi> which have commonly been holden every third yeer, the eſtates ſeem to have a great liberty, (as the Northern people almoſt all breath thereafter) yet ſo it is, that in effect they proceed not but by way of ſupplications and requeſts to the King. As in the Parliament holden in <hi>Octob:</hi> 1566. when the States by a common Conſent had reſolved (as they gave the Queene to underſtand) not to entreat of any thing, un<g ref="char:EOLhyphen"/>til She had firſt appointed who ſhould ſucceed Her in the Crown;
+<pb n="5" facs="tcp:162131:4"/>She gave them no other anſwer, but <hi>that they were not to make her grave before She were dead:</hi> All whoſe reſolutions were to no purpoſe without her good liking, neither did She in that, any thing that they required.</p>
+            <p>Albeit by the ſufferance of the King of <hi>England,</hi> Controverſies between the King and His people are ſometimes determined by the High Court of Parliament; yet all the eſtates remain in full ſubjection to the King, who is no way bound to follow their ad<g ref="char:EOLhyphen"/>vice, neither to conſent to their Requeſts.</p>
+            <p>The eſtates of <hi>England</hi> are never otherwiſe aſſembled, no more then they are in <hi>France</hi> or <hi>Spaine,</hi> then by Parliament writs and expreſſe commandements proceeding from the King: which ſheweth very well that the eſtates have no Power of themſelves to Determine, Command, or Decree any thing, ſeeing they can<g ref="char:EOLhyphen"/>not ſo much as aſſemble themſelves, neither being aſſembled de<g ref="char:EOLhyphen"/>part without expreſſe Commandement from the King.</p>
+            <p>Yet this may ſeem one ſpeciall thing, that the Lawes made by the King of <hi>England,</hi> at the requeſt of the Eſtates, cannot be a<g ref="char:EOLhyphen"/>gaine repealed, but by calling a Parliament; which is much uſed and done as I have underſtood by Mr <hi>Dale</hi> the Engliſh Ambaſſa<g ref="char:EOLhyphen"/>dour, an honourable Gentleman, and a man of good underſtan<g ref="char:EOLhyphen"/>ding, who yet aſſured me the King received or rejected the Law, as ſeemed beſt to Himſelfe; and ſtuck not to diſpoſe thereof at His Pleaſure, and contrary to the will of the Eſtates, as we ſee <hi>Hen.</hi> 8. to have alwaies uſed his Soveraign Power, and with his onely word, to have diſanulled the Decrees of Parliament.</p>
+            <p>We conclude the Majeſty of a Prince to be nothing altered or diminiſhed by the calling together or preſence of the Eſtates: But to the contrary, His Majeſty thereby to be much the greater and the more Honourable, ſeeing all His people to acknowledge Him for their Soveraign.</p>
+            <p>We ſee the Principal point of Soveraign Majeſty and abſolute Power to conſiſt principally in giving Lawes unto the Subjects without their conſent: It behoveth that the Soveraigne Prince ſhould have the Lawes in his Power, to change and amend them according as the caſe ſhal require.</p>
+            <p>In a <hi>Monarchy</hi> every one in particular muſt ſweare to the Ob<g ref="char:EOLhyphen"/>ſervation
+<pb n="6" facs="tcp:162131:5"/>of the Lawes, and their Allegiance to one Soveraigne <hi>Monarch;</hi> who, next unto God, (of whom he holds his Scepter and Power) is bound to no man: For an Oath carrieth alwaies with it Reverence unto whom, and in whoſe name it is made, as ſtill given to a Superior, and therefore the vaſſal giveth ſuch Oath unto his Lord, but receiveth none from him againe, though they be mutually bound, the one of them to the other.</p>
+            <p>
+               <hi>Trajan</hi> ſwore to keep the Lawes, although he in the name of a Soveraign Prince were exempted; but never any of the Empe<g ref="char:EOLhyphen"/>rours before him ſo ſware; therefore <hi>Pliny</hi> the younger in a <hi>Pa<g ref="char:EOLhyphen"/>nagyricall Oration</hi> ſpeaking of the Oath of <hi>Trojan,</hi> giveth out <hi>a great novelty,</hi> ſaith he, <hi>and never before heard of, He ſweareth by whom we ſweare.</hi>
+            </p>
+            <p>Of two things, the one muſt be, to wit, the Prince that ſwear<g ref="char:EOLhyphen"/>eth to keep the Lawes of his Country, muſt either not have the Soveraignty, or elſe become a perjur'd man, if he ſhould but abro<g ref="char:EOLhyphen"/>gate but one Law contrary to his Oath, whereas it is not onely ptofitable that a Prince ſhould ſometimes abrogate ſome ſuch Laws, but alſo neceſſary for him to alter or correct them, as the infinite variety of places, times and Perſons, ſhal require: Or if we ſhal ſay the Prince to be ſtil a Soveraign, &amp; yet nevertheleſſe with ſuch condition as that he can make no Law without the advice of his Councel or people; he muſt alſo be diſpenced with by his ſub<g ref="char:EOLhyphen"/>jects for the Oath which he hath made for the obſervation of the Lawes, and the ſubjects againe which are obliged to the Lawes, have alſo need to be diſpenſed with all by their Prince, for fear they ſhould be perjur'd: So ſhall it come to paſſe, that the Maje<g ref="char:EOLhyphen"/>ſty of the Common-weale enclining now to this ſide, now to that ſide; ſometimes the Prince, ſometimes the People bearing ſway, ſhall have no certainty to reſt upon, which are notable ab<g ref="char:EOLhyphen"/>ſurdities, and altogether incompatible with the Majeſty of ab<g ref="char:EOLhyphen"/>ſolute Soveraignty, and contrary both to Law and Reaſon: And yet we ſee many men that think they ſee more in the matter then others, wil maintaine it to be moſt neceſſary that Princes ſhould be bound by Oath to keep the Lawes and Cuſtomes of their Countryes; In which doing, they weaken and overthrow all the Rights of Soveraign Majeſty, which ought to be moſt Sacred and
+<pb n="7" facs="tcp:162131:5"/>Holy, and confound the Soveraignty of one Soveraign <hi>Monarch</hi> with an <hi>Ariſtocracy</hi> or <hi>Democracie.</hi>
+            </p>
+            <p>Publication or Approbation of Lawes, in the Aſſembly of the Eſtates or Parliament, is with us of great importance for the keeping of the Lawes, not that the Prince is bound to any ſuch approbation, or cannot of himſelfe make a Law, without the conſent of the Eſtates or people; yet it is a curteous part to do it by the good liking of the Senate.</p>
+            <p>What if a Prince by Law, forbid to kil or ſteal, is he not bound to obey his own Lawes? I ſay, that this Law is not his, but the Law of God, whereunto all Princes are more ſtraitly bound then their Subjects; God taketh a ſtricter account of Princes then others, as <hi>Solomon</hi> a King hath ſaid, whereto agreeth <hi>Mar<g ref="char:EOLhyphen"/>cus Aurelius,</hi> ſaying, <hi>The Magiſtrates are Judges over private men, Princes judge the Magiſtrates, and God the Princes.</hi>
+            </p>
+            <p>It is not onely a Law of Nature, but alſo oftentimes repeated among the Lawes of God, that we ſhould be obedient unto the Lawes of ſuch Princes as it hath pleaſed God to ſet to Rule and Reign over us; if their Lawes be not directly repugnant unto the Lawes of God, whereunto all Princes are as wel bound as their ſubjects: For as the Vaſſal oweth his Oath of fidelity unto his Lord, towards, and againſt all men, except his Soveraign Prince: So the ſubject oweth his Obedience to his Soveraign Prince, to<g ref="char:EOLhyphen"/>wards, and againſt all, the Majeſty of God excepted, who is the abſolute Soveraigne of all the Princes in the world.</p>
+            <p>To confound the ſtate of <hi>Monarchy,</hi> with the <hi>Popular</hi> or <hi>A<g ref="char:EOLhyphen"/>riſtocraticall</hi> eſtate, is a thing impoſſible, and in effect incompa<g ref="char:EOLhyphen"/>tible, and ſuch as cannot be imagined: For Soveraignty being of it ſelfe indiviſible, how can it at one and the ſame time be divi<g ref="char:EOLhyphen"/>ded betwixt one Prince, the Nobility, and the people in com<g ref="char:EOLhyphen"/>mon? The firſt mark of Soveraign Majeſty is, to be of Power to give Lawes, and to command over them unto the ſubjects; and who ſhould thoſe ſubjects be that ſhould yeeld their obedience to the Law, if they ſhould have alſo Power to make the Lawes? who ſhould he be that could give the Law, being himſelfe con<g ref="char:EOLhyphen"/>ſtrained to receive it of them, unto whom he himſelfe gave it? ſo that of neceſſity we muſt conclude, that as no one in particular
+<pb n="8" facs="tcp:162131:6"/>hath the Power to make the Law in ſuch a ſtate, that there the ſtate muſt needs be popular.</p>
+            <p>Never any Common-wealth hath been made of an <hi>Ariſtocracy</hi> and Popular Eſtate, much leſſe of the three Eſtates of a Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+            <p>Such States wherein the Right of Soveraignty are divided, are not rightly to be called Common-weales, but rather the cor<g ref="char:EOLhyphen"/>ruption of Common-weales; as <hi>Herodotus</hi> hath moſt briefly, but truly written.</p>
+            <p>Common-weales which change their State, the Soveraigne Right and Power of them being divided, find no reſt from Civill warres.</p>
+            <p>If the Prince be an abſolute Soveraign, as are the true <hi>Mo<g ref="char:EOLhyphen"/>narchs</hi> of <hi>France,</hi> of <hi>Spaine,</hi> of <hi>England, Scotland, Turkey, Muſ<g ref="char:EOLhyphen"/>covy, Tartary, Perſia, Aethiopia, India,</hi> and almoſt of all the Kingdomes of <hi>Africk</hi> and <hi>Aſia;</hi> where the Kings themſelves have the Soveraignty without all doubt or queſtion, not divided with their ſubjects: In this caſe it is not lawful for any one of the ſub<g ref="char:EOLhyphen"/>jects in particular, or all of them in generall, to attempt any thing either by way of fact or of juſtice, againſt the Honour, Life, or Dignity of the Soveraign; albeit he had comitted all the wic<g ref="char:EOLhyphen"/>kedneſſe, impiety, and cruelty that could be ſpoke. For as to proceed againſt him by way of juſtice, the ſubject hath not ſuch juriſdiction over his Soveraign Prince, of whom dependeth all Power to Command, and who may not onely revoke all the Power of his Magiſtrates; but even in whoſe preſence the Power of all Magiſtrates, Corporations, Eſtates and Communities ceaſe.</p>
+            <p>Now if it be not lawful for the Subject by the way of juſtice to proceed againſt a King, how ſhould it then be lawful to pro<g ref="char:EOLhyphen"/>ceed againſt him by way of fact or Force? for queſtion is not here what men are able to do by ſtrength and Force, but what they ought of Right to do; as not whether the ſubject have power and ſtrength, but whether they have lawful power to condemne their Soveraign Prince.</p>
+            <p>The ſubject is not onely guilty of Treaſon in the higheſt De<g ref="char:EOLhyphen"/>gree who hath ſlain his Soveraign Prince, but even he alſo which
+<pb n="9" facs="tcp:162131:6"/>hath attempted the ſame, who hath given Counſell or conſent thereto; yea, if he have concealed the ſame, or but ſo much as thought it: Which fact the Lawes have in ſuch deteſtation, as that when a man guilty of any offence or Crime, dyeth before he be condemned thereof, he is deemed to have dyed in whole and perfect Eſtate, except he have conſpired againſt the Life and Dig<g ref="char:EOLhyphen"/>nity of his Soveraign Prince: This onely thing they have thought to be ſuch, as that for which he may worthily ſeeme to have been now already judged and condemned, yea even before he was thereof accuſed. And albeit the Lawes inflict no puniſhment up<g ref="char:EOLhyphen"/>on the evill thoughts of men, but on thoſe onely which by word or deed break out into ſome Enormity; yet if any man ſhall ſo much as conceit a thought for the Violating of the Perſon of his Soveraign Prince, although he have attempted nothing, they have yet judged this ſame thought worthy of death; notwithſtanding what repentance ſoever he have had thereof.</p>
+            <p>Leſt any men ſhould think [Kings or Princes] themſelves to have been the Authors of theſe Lawes, ſo the more ſtraitly to provide for their own ſafety and Honour, let us ſee the Laws and examples of holy <hi>Scripture.</hi>
+            </p>
+            <p>
+               <hi>Nabuchodonoſor King of Aſſyria,</hi> with fire and ſword deſtroyed all the Country of <hi>Paleſtina,</hi> beſieged <hi>Jeruſalem,</hi> took it, rob'd and raſed it down to the ground, burnes the <hi>Temple,</hi> and defiles the <hi>Sanctuary of God,</hi> ſlew the King, with the greateſt part of the people, carrying away the reſt into Captivity into <hi>Babylon,</hi> cauſed the image of himſelfe made in gold to be ſet up in publick place, commanding all men to adore and worſhip the ſame upon pain of being burnt alive, and cauſed them that refuſed ſo to do, to be caſt into a burning <hi>Furnace.</hi> And yet for all that, the holy Prophets [<hi>Baruch</hi> 1. <hi>Jeremy</hi> 29.] directing their letters unto their brethren the <hi>Jewes,</hi> then in Captivity in <hi>Babylon,</hi> wil them to pray unto God for the good and happy life of <hi>Nabuchodono<g ref="char:EOLhyphen"/>ſor</hi> and his children, and that they might ſo long Rule and Reign over them as the Heavens ſhould endure: Yea even God Him<g ref="char:EOLhyphen"/>ſelfe doubted not to call <hi>Nabuchodonoſor</hi> his ſervant, ſaying, <hi>that he would make him the moſt Mighty Prince of the world,</hi> and yet was there never a more deteſtable Tyrant then he; who not con<g ref="char:EOLhyphen"/>tended
+<pb n="10" facs="tcp:162131:7"/>to be himſelfe worſhiped, but cauſed his Image alſo to be adored, and that upon pain of being burnt quick.</p>
+            <p>We have another rare example of <hi>Saul,</hi> who poſſeſſed with an evill Spirit, cauſed the Prieſts of the <hi>Lord</hi> to be without juſt cauſe ſl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine, for that one of them had received <hi>David</hi> flying from him, and did what in his power was to kill or cauſe to be kill'd the ſame <hi>David,</hi> a moſt innocent Prince; by whom he had got ſo ma<g ref="char:EOLhyphen"/>ny victories, at which time he fell twice himſelfe into <hi>Davids</hi> hands, who blamed of his Souldiers for that he would not ſuffer his ſo mortall Enemy then in his power to be ſlain; being in aſ<g ref="char:EOLhyphen"/>ſured hope to have enjoyed the Kingdome after his death, he de<g ref="char:EOLhyphen"/>teſted their Counſell, ſaying, <hi>God forbid that I ſhould ſuffer the Per<g ref="char:EOLhyphen"/>ſon of a King, the Lords Anointed to be violated.</hi> Yea, he himſelfe defended the ſame King perſecuting of him, whenas he comman<g ref="char:EOLhyphen"/>ded the Souldiers of his guard overcome by wine and ſleep to be wakened.</p>
+            <p>And at ſuch time as <hi>Saul</hi> was ſlaine, and that a Souldier think<g ref="char:EOLhyphen"/>ing to do <hi>David</hi> a pleaſure, preſented him with <hi>Saul's</hi> head, <hi>Da<g ref="char:EOLhyphen"/>vid</hi> cauſed the ſame Souldier to be ſlaine which had brought him the head, ſaying, <hi>Go thou wicked, how durſt thou lay thy impure hands upon the Lords Anointed? thou ſhalt ſurely die therefore.</hi>
+            </p>
+            <p>And afterwards, without all diſſimulation mourned himſelfe for the dead King: All which is worth good conſideration, for <hi>David</hi> was by <hi>Saul</hi> proſecuted to death, and yet wanted not Power to have revenged himſelfe, being become ſtronger then the King; beſides, he was the choſen of God, and anointed by <hi>Samuel</hi> to be King, and had married the Kings Daughter: And yet for all that, he abhorred to take upon him the title of a King; and much more to attempt any thing againſt the Life or Honour of <hi>Saul,</hi> or to Rebell againſt him; but choſe rather to baniſh himſelfe out of the Realme, then in any ſort ſo ſeek the Kings deſtruction.</p>
+            <p>We doubt not, but <hi>David</hi> a King and a Prophet, led by the Spirit of God, had alwayes before his eyes the Law of God, <hi>Ex.</hi> 22.28. <hi>Thou ſhalt not ſpeake evill of thy Prince, nor detract the Magiſtrate;</hi> neither is there any thing more Common in Ho<g ref="char:EOLhyphen"/>ly Scripture, then the forbidding not only to kill or attempt the
+<pb n="11" facs="tcp:162131:7"/>Life or Honour of a Prince, but even for the very Magiſtrates, although ſaith the Scripture, <hi>they be wicked and naught.</hi>
+            </p>
+            <p>The Proteſtant Princes of <hi>Germany,</hi> before they entred into Arms againſt <hi>Charls</hi> the <hi>Emperour,</hi> demanded of <hi>Martin Luther</hi> if it were lawful for them ſo to do or not; who frankly told them, that it were not Lawfull whatſoever Tyranny or impiety were pretended, yet was he not therein by them believed; ſo there<g ref="char:EOLhyphen"/>of enſued a deadly and moſt lamentable warre, the end where<g ref="char:EOLhyphen"/>of was moſt miſerable; drawing with it, the Ruine of many great and noble houſes of <hi>Germany,</hi> with exceeding ſlaughter of the Subjects.</p>
+            <p>The Prince, whom you may juſtly call the Father of the Country, ought to be to every man dearer and more Reve<g ref="char:EOLhyphen"/>rend then any Father, as one Ordained and ſent unto us by God. The ſubject is never to be ſuffered to attempt any thing againſt the Prince, how naughty and cruel ſoever he be; lawful it is, not to obey him in things contrary to the Lawes of God, to flie and hide our ſelves from him, but yet to ſuffer ſtripes, yea, and death alſo, rather then to attempt any thing againſt his life and Honour. O how many Tyrants ſhould there be, if it ſhould be Lawfull for ſubjects to kill Tyrants? How many good and inno<g ref="char:EOLhyphen"/>cent Princes ſhould as Tyrants periſh by the Conſpiracy of their ſubjects againſt them? he that ſhould of his ſubjects but exact ſubſidies, ſhould be then, as the vulgar people eſteeme him, a Ty<g ref="char:EOLhyphen"/>rant: He that ſhould rule and command contrary to the good liking of the people, ſhould be a Tyrant: He that ſhould keep ſtrong guards and Garriſons for the ſafety of his Perſon, ſhould be a Tyrant: He that ſhould put to death Traitors and Conſpi<g ref="char:EOLhyphen"/>rators againſt his State, ſhould be alſo counted a Tyrant. How ſhould good Princes be aſſured of their lives, if under colour of Tyranny they might be ſlaine by their ſubjects, by whom they ought to be defended?</p>
+            <p>In a well ordered State, the Soveraigne Power muſt remaine in one onely, without communicating any part thereof unto the State, (for in that caſe it ſhould be a popular Government, &amp; no <hi>Monarchy</hi>) wiſe <hi>Polititians, Philoſophers, Divines,</hi> and <hi>Hiſtoriogra<g ref="char:EOLhyphen"/>phers,</hi> have highly commended a <hi>Monarchy</hi> above all other Com<g ref="char:EOLhyphen"/>mon-weales,
+<pb n="12" facs="tcp:162131:8"/>it is not to pleaſe the Prince, that they hold this o<g ref="char:EOLhyphen"/>pinion; but for the ſafety and happyneſſe of the ſubjects. And contrarywiſe, when as they ſhall limit and reſtrain the Soveraign Power of a <hi>Monarch,</hi> to ſubject him to the generall Eſtates, or to the Councell; the Soveraignty hath no firm Foundation, but they frame a popular confuſion, or a miſerable <hi>Anarchy,</hi> which is the Plague of all Eſtates and Common-weales: The which muſt be duly conſidered, not giving credit to their goodly diſcourſes, which perſwade ſubjects that it is neceſſary to ſubject <hi>Monarchs,</hi> and to preſcribe their Prince a Law; for that is not onely the Ru<g ref="char:EOLhyphen"/>ine of the <hi>Monarch,</hi> but alſo of the ſubjects. It is yet more ſtrange that many hold opinion, that the Prince is ſubject to his Lawes, that is to ſay, ſubject to his wil, whereon the Lawes which he hath made depend, a thing unpoſſible in Nature. And under this colour, and ill digeſted opinion, they make a mixture and confu<g ref="char:EOLhyphen"/>ſion of Civil Lawes, with the Lawes of Nature and of Cod.</p>
+            <p>A pure abſolute <hi>Monarchy</hi> is the ſureſt Common-weal, and without Compariſon, the beſt of all. Wherein many are abuſed, which maintaine that an <hi>Optimacy</hi> is the beſt kind of Govern<g ref="char:EOLhyphen"/>ment, for that many Commanders have more Judgement, Wiſ<g ref="char:EOLhyphen"/>dome, and Councell then one alone. But there is a great diffe<g ref="char:EOLhyphen"/>rence betwixt Councell and Commandment.</p>
+            <p>The Councel of many wiſe men, may be better then of one; but to Reſolve, Determine, and to Command, one will alwaies performe it better then many: He which hath adviſedly digeſted all their opinions, will ſoon reſolve without contention; the which many cannot eaſily performe: it is neceſſary to have a So<g ref="char:EOLhyphen"/>veraign Prince, which may have Power to Reſolve and Deter<g ref="char:EOLhyphen"/>mine of the opinions of his Councell.</p>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
